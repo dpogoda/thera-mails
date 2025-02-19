@@ -1,0 +1,5 @@
+{
+    "base_url": "see example.config.json",
+    "path_to_chromedriver": "see example.config.json",
+    "num_pages": 11
+}

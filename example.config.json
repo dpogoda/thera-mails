@@ -1,0 +1,5 @@
+{
+    "base_url": "https://www.therapie.de/therapeutensuche/ergebnisse/?abrechnungsverfahren=1&arbeitsschwerpunkt=10&ort=K%C3%B6ln&therapieangebot=1&verfahren=2",
+    "path_to_chromedriver": "/path/to/chromedriver",
+    "num_pages": 11
+}
