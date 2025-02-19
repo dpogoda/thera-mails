@@ -6,6 +6,7 @@ This Python script scrapes email addresses from therapist profiles on therapie.d
 
 - Python 3.x
 - Chrome WebDriver
+  - Download (scroll a bit down): `https://googlechromelabs.github.io/chrome-for-testing/`
 - Required Python packages:
   ```bash
   pip install selenium requests
