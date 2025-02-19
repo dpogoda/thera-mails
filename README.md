@@ -13,6 +13,27 @@ This Python script scrapes email addresses from therapist profiles on therapie.d
   pip install selenium requests
   ```
 
+## Usage Tips
+
+### Sending Mass Emails Efficiently
+
+The collected email addresses can be used effectively for reaching multiple therapists at once:
+
+1. **Use BCC for Mass Mailing**
+   - Put all collected email addresses in the BCC (Blind Carbon Copy) field
+   - Benefits:
+     - Send one email to reach many therapists simultaneously
+     - Increases chances of finding available therapy spots
+     - Protects therapists' privacy (recipients can't see other addresses)
+     - More professional approach than individual emails
+     - Saves time compared to sending individual emails
+
+2. **Email Etiquette**
+   - Write a professional and clear subject line
+   - Include your key requirements (location, insurance, specialization)
+   - Keep the message concise but informative
+   - Consider mentioning that you're contacting multiple therapists due to the known difficulty in finding available spots
+
 ## Files
 
 ### main.py
