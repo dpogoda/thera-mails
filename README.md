@@ -46,7 +46,7 @@ The main script that handles the web scraping functionality:
 - Extracts email addresses from individual profiles using Selenium
 - Handles pagination automatically
 - Removes duplicate email addresses
-- Prints results to console
+- Prints results to file
 
 ### config.json
 
