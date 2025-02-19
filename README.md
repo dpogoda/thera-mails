@@ -1,3 +1,5 @@
+# Installation
+
 # Therapist Email Scraper
 
 This Python script scrapes email addresses from therapist profiles on therapie.de. It's designed to collect contact information for therapists in specified locations with specific specializations.
@@ -6,7 +8,7 @@ This Python script scrapes email addresses from therapist profiles on therapie.d
 
 - Python 3.x
 - Chrome WebDriver
-  - Download (scroll a bit down): `https://googlechromelabs.github.io/chrome-for-testing/`
+  - [Download here](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 - Required Python packages:
   ```bash
   pip install selenium requests
@@ -63,7 +65,7 @@ Configuration file that contains:
    ```
 2. Download Chrome WebDriver:
 
-   - Visit [Chrome WebDriver Downloads](https://sites.google.com/chromium.org/driver/)
+   - Visit [Chrome WebDriver Downloads](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
    - Download the version matching your Chrome browser
    - Update the `path_to_chromedriver` in `config.json` with your local path
 3. Configure `config.json`:
