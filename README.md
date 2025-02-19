@@ -1,5 +1,3 @@
-# Installation
-
 # Therapist Email Scraper
 
 This Python script scrapes email addresses from therapist profiles on therapie.de. It's designed to collect contact information for therapists in specified locations with specific specializations.
